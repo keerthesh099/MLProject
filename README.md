@@ -1,12 +1,13 @@
 # MLProject
-DLithe Internship Certification Program
+DLithe Internship Certification Program<br>
  
-Project Topic : Analysis of Fraud Detection Dataset
-Reference : DLithe  
-Website : www.dlithe.com
-Project done under the guidance of : DLithe
+Project Topic : Analysis of Fraud Detection Dataset<br>
+Reference : DLithe<br>  
+Website : www.dlithe.com<br> 
+Project done under the guidance of : DLithe<br> 
 
-Done by: KEERTHESH S 4NM17CS087
+Done by: KEERTHESH S 4NM17CS087<br> 
+
 Fraud Detection Analysis using Machine learning models
 
 The main objective of the Fraud Detection Analysis is to predict that to predict Anonymized credit card transactions as fraudulent or genuine.
@@ -27,5 +28,5 @@ The steps involved in the project are:
 6. Analysis outcome.
 
 Final result of analysis:
-Decision Tree Accuracy : 99.9227549788
+Decision Tree Accuracy : 99.9227549788<br> 
 Random Forest Accuracy : 99.9311817084
